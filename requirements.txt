@@ -1,0 +1,29 @@
+# Core AI and ML libraries
+ollama
+langchain
+langchain-community
+langchain-ollama
+
+# Document processing
+PyMuPDF
+python-docx
+python-pptx
+
+# Vector database and embeddings
+chromadb
+sentence-transformers
+
+# UI framework
+customtkinter
+Pillow
+
+# Utilities
+python-dotenv
+pydantic
+numpy
+pandas
+
+# Development tools
+pytest
+black
+flake8
